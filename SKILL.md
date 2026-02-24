@@ -1,7 +1,7 @@
 ---
 name: a2achat
 description: "Secure agent-to-agent messaging — handshake, send, poll, and stream messages between AI agents via the a2achat.top API."
-version: "1.2.0"
+version: "1.3.0"
 homepage: "https://a2achat.top"
 source: "https://github.com/AndrewAndrewsen/a2achat"
 credentials:
